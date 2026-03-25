@@ -1,0 +1,52 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+*.whl
+build/
+dist/
+pip-wheel-metadata/
+*.cover
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+env.bak/
+.env
+env.*
+.python-version
+
+# uv
+uv.lock/
+
+# Ruby artifacts
+.bundle/
+vendor/
+vendor/bundle/
+*.gem
+*.rbc
+*.sass-cache/
+log/
+tmp/
+
+# Editor / tooling
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# macOS
+.DS_Store
+Icon?
+
+# Misc
+*.log
